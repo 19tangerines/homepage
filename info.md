@@ -102,15 +102,15 @@ I'm not professional by any means, I use my iPhone 14 (lol) but prefer older poi
 
 I like to photograph people and scenery that's really far away. 
 
-<img src="images/IMG_7287.JPG" alt="photo1"/>
-<img src="images/IMG_7302.JPG" alt="photo2"/>
-<img src="images/IMG_7191.JPG" alt="photo3"/>
-<img src="images/IMG_7199.JPG" alt="photo4"/>
+![photo1](images/IMG_7287.JPG "This is a sample image.")
+![photo2](images/IMG_7302.JPG "This is a sample image.")
+![photo3](images/IMG_7191.JPG "This is a sample image.")
+![photo4](images/IMG_7199.JPG "This is a sample image.")
 
 I also sometimes like to make my photographs into posters. 
 
-<img src="images/mammothprint1.png" alt="photo5"/>
-<img src="images/highprint1.png" alt="photo5"/>
+![photo5](images/mammothprint1.png "This is a sample image.")
+![photo6](images/highprint1.png "This is a sample image.")
 
 
 ### Outdoors
