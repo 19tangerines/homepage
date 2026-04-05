@@ -56,9 +56,9 @@ switch (opcode) {
     // continue for X amount of cases... 
 ```
 
-It's a little dumb, but it's just such a huge pain to write.
+It's a little dumb, but it's just such a huge pain to write (and read).
 
-When I code, something that's really important to me is that it is very clean and consistent, and when I can, I try my best to comment and make notes as much as I can, mostly for myself, and as good practice for any future projects I might work on. 
+When I code, something that's really important to me is that it is very clean and consistent. When I can, I try my best to comment and make notes as much as I can. Mostly for myself, and as good practice for any future projects I might work on. 
 
 ---
 
@@ -102,15 +102,15 @@ I'm not professional by any means, I use my iPhone 14 (lol) but prefer older poi
 
 I like to photograph people and scenery that's really far away. 
 
-<img src="images/IMG_7287.JPG" alt="photo1" width="220" />
-<img src="images/IMG_7302.JPG" alt="photo2" width="220" />
-<img src="images/IMG_7191.JPG" alt="photo3" width="220" />
-<img src="images/IMG_7199.JPG" alt="photo4" width="220" />
+<img src="images/IMG_7287.JPG" alt="photo1"/>
+<img src="images/IMG_7302.JPG" alt="photo2"/>
+<img src="images/IMG_7191.JPG" alt="photo3"/>
+<img src="images/IMG_7199.JPG" alt="photo4"/>
 
 I also sometimes like to make my photographs into posters. 
 
-<img src="images/mammothprint1.png" alt="photo5" width="440" />
-<img src="images/highprint1.png" alt="photo5" width="440" />
+<img src="images/mammothprint1.png" alt="photo5"/>
+<img src="images/highprint1.png" alt="photo5"/>
 
 
 ### Outdoors
@@ -145,7 +145,7 @@ I recently picked up writing! I post little excerpts on TikTok (good luck findin
 
 As someone who often feels lost, I wrote this one day, and I try to remind myself of it every day:
 
-> <br>I think you should chase that something. <br> <br>chase that new city, chase that connection, chase that dream you've always had but never reached for. <br><br>chase that something as hard as you can.<br><br>because you can always come back home.<br>
+> <br>I think you should chase that something. <br> <br>chase that new city, chase that connection, chase that dream you've always had but never reached for. <br><br>chase that something as hard as you can.<br><br>because you can always come back home.<br> &ensp;
 
 
 
