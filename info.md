@@ -128,6 +128,18 @@ I also sometimes like to make my photographs into posters.
 
 I picked up running over the summer, I started with a 15 minute mile (lol) for 5ks and I've since cut down to 9 minute miles and 11 min/mi for 10ks. I've gone through three pairs of the same running shoes, it's become one of my favorite ways to pregame interviews.  
 
+- [x] run a 5k (took me almost an hour, with breaks)
+- [x] run a 5k without stopping 
+- [x] run a 5k in < 35 minutes
+- [ ] run a 5k in < 30 minutes (i got down to sub 33!)
+- [x] run a sub 10-minute mile
+- [ ] run a sub 9-minute mile 
+- [x] run a 10k (1 hr+ of running)
+- [ ] run a 10k without stopping
+- [ ] finish a half marathon (i've gotten up to 7 miles!)
+- [ ] finish a full marathon
+- [x] run with a run club (did it with strides)
+
 I like to snowboard, go to the beach, generally just stay outdoors. I love to hike, especially when there's water somewhere in the hike (bonus if I can get in it).
 
 My top three hikes are:
