@@ -84,7 +84,18 @@ Mostly working in **React** and **Python**, I ended up cleaning up a lot of fron
 
 I made this little thing over the summer to test out frontend languages and design! It's just a cute little desktop sprite that sits on top of your other windows to keep you company while you study, built with a bit of **HTML, CSS, JS, and Electron**. 
 
-Not very complex, but I had fun building and designing it!
+Not very complex, but I had fun building and designing it! It's still a bit of a work in progress, here's what I've done so far:
+
+- [x] Make transparent small window that stays on top of windows 
+- [x] Make the small window movable + closable
+- [x] Create graphics 
+- [x] Test model (compile into clickable application)
+- [ ] Add food/mouse interaction
+- [ ] Create alternative graphics
+- [ ] Cleanup codebase? (Electron has a lot of packages, I wanna see if I Have to include all of them.)
+- [ ] Create social functionality (might need entire restructure)
+
+I'm not sure if I'll actually do all of these, but it is fun to be creative and think about all the cool things you can do with a little bit of code and some illustration skills! 
 
 ![project](images/projectexample.png "This is a sample image.")
 
